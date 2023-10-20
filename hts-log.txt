@@ -1,0 +1,131 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Sat, 07 Oct 2023 11:55:58 at http://https://ewebotwp.com/home-agency/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://https://ewebotwp.com/home-agency/ -O "/home/famous/websites/MyMakertr" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:58:34	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://ewebotwp.com/home-agency/)
+11:58:34	Warning: 	Moved Permanently for https://ewebotwp.com/?p=12642
+11:58:34	Warning: 	File has moved from https://ewebotwp.com/?p=12642 to https://ewebotwp.com/home-agency/
+11:58:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+11:59:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/themes/ewebot-child/img/gt3_stats.png
+11:59:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+11:59:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.1.1
+11:59:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-includes/js/underscore.min.js?ver=1.13.4
+11:59:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-includes/js/wp-util.min.js?ver=6.3.1
+11:59:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-includes/js/api-request.min.js?ver=6.3.1
+11:59:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+11:59:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+11:59:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11
+11:59:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+11:59:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+11:59:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-includes/js/dist/url.min.js?ver=8814d23f2d64864d280d
+11:59:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-includes/js/dist/api-fetch.min.js?ver=0fa4dabf8bf2c7adf21a
+11:59:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/themes/ewebot/woocommerce/js/easyzoom.js?ver=6.3.1
+11:59:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/woo-variation-swatches/assets/js/frontend.min.js?ver=1693937031
+11:59:25	Warning: 	HTML file (1116326 bytes) retransferred due to lack of cache: https://ewebotwp.com/wp-json/
+11:59:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.16.4
+11:59:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-json/wp/v2/pages/12642
+11:59:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/xmlrpc.php?rsd
+11:59:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fewebotwp.com%2Fhome-agency%2F
+12:00:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2022/09/favicon.png
+12:00:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/logo-agency.png
+12:00:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fewebotwp.com%2Fhome-agency%2F&format=xml
+12:00:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2021/04/lifetime_icon.png
+12:00:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2021/04/elementor_icon.png
+12:00:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2021/04/wpdaddy_icon.png
+12:00:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2021/06/smart_import_icon.png
+12:00:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2021/06/woo_icon_shop.png
+12:01:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2021/10/mega-menu.png
+12:01:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2021/10/auto-update.png
+12:01:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2021/10/multilanguage.png
+12:01:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2021/10/theme-options.png
+12:01:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2021/10/responsive-retina.png
+12:01:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2021/10/optimization.png
+12:01:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2019/08/logo_retina.png
+12:01:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency_elipse1.png
+12:01:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency-element.png
+12:01:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency_figure.png
+12:01:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency_img1.jpg
+12:01:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency_img2.jpg
+12:01:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency-rocket.png
+12:01:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency-lamp.png
+12:01:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency_img3.jpg
+12:01:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency-icon1.png
+12:02:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency-icon1-hover.png
+12:02:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency-icon2-hover.png
+12:02:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency-icon2.png
+12:03:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency-icon3.png
+12:03:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency-icon3-hover.png
+12:03:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/02/leads-network.png
+12:03:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/02/leads-product.png
+12:03:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/02/leads-vertigo.png
+12:03:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/02/leads-proline.png
+12:03:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/02/leads-minty.png
+12:03:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency_portfolio1-800x605.jpg
+12:03:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency_portfolio2-800x605.jpg
+12:03:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency_portfolio3-800x605.jpg
+12:03:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agancy-girl.png
+12:03:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency_ideas_bg.png
+12:03:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency_img4.jpg
+12:03:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency_img5.jpg
+12:03:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency_testimonials_arrow.png
+12:03:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency-fly.png
+12:04:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency_fly_trajectory.png
+12:04:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency_elipse2.png
+12:04:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/logo-agency-footer.png
+12:04:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency-bubble.png
+12:04:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2023/05/agency-map.png
+12:04:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/wpda-builder-pro/dist/js/frontend/mega-menu-frontend.js?ver=1693294733
+12:04:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/wpda-builder-pro/dist/js/frontend/frontend.js?ver=1693294733
+12:04:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js?ver=1.2.0
+12:04:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.1
+12:04:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js?ver=3.1.6
+12:04:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.min.js?ver=3.25.0
+12:05:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.1.1
+12:05:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.1.1
+12:05:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.1
+12:05:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.1.1
+12:05:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/yith-woocommerce-quick-view/assets/js/frontend.min.js?ver=1.32.0
+12:05:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+12:05:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+12:05:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.2
+12:05:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-includes/js/comment-reply.min.js?ver=6.3.1
+12:05:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/gt3-themes-core/core/elementor/assets/js/core-gridlist-woo.js?ver=2.0.2
+12:05:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.9.9
+12:05:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.8.1.1
+12:05:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=8.1.1
+12:05:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.8.1.1
+12:05:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=8.1.1
+12:05:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.8.1.1
+12:06:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.16.4
+12:06:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+12:06:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.16.4
+12:06:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.16.4
+12:06:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0
+12:06:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+12:06:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/gt3-themes-core/core/elementor/assets/js/core-frontend.js?ver=2.0.2
+12:06:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.16.4
+12:06:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.16.4
+12:06:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/woocommerce-ajax-filters/assets/frontend/css/images/ui-icons_444444_256x240.png
+12:06:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/woocommerce-ajax-filters/assets/frontend/css/images/ui-icons_555555_256x240.png
+12:06:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/woocommerce-ajax-filters/assets/frontend/css/images/ui-icons_ffffff_256x240.png
+12:06:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/woocommerce-ajax-filters/assets/frontend/css/images/ui-icons_cc0000_256x240.png
+12:06:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/woocommerce-ajax-filters/assets/frontend/css/images/ui-icons_777620_256x240.png
+12:06:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/woocommerce-ajax-filters/assets/frontend/css/images/ui-icons_777777_256x240.png
+12:06:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/woocommerce-ajax-filters/assets/frontend/css/mCSB_buttons.png
+12:06:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/uploads/2021/10/mega_footer_bg.jpg
+12:06:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/wpda-builder-pro/dist/img/close.2065683d.png
+12:06:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/themes/ewebot/dist/img/close_burger.545cc992.png
+12:06:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/themes/ewebot/dist/img/quote.e726292b.png
+12:06:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/jquery.selectBox-arrow.gif
+12:06:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ewebotwp.com/wp-content/plugins/yith-woocommerce-wishlist/assets/images/jquery.selectBox-arrow.png
+12:07:09	Warning: 	HTML file (769 bytes) retransferred due to lack of cache: https://ewebotwp.com/?p=12642
+12:07:10	Warning: 	Moved Permanently for https://ewebotwp.com/?p=12642
+12:07:10	Warning: 	File has moved from https://ewebotwp.com/?p=12642 to https://ewebotwp.com/home-agency/
+12:07:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://ewebotwp.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg (from https://ewebotwp.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=8.1.1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 16 seconds : 193 links scanned, 301 files written (11493094 bytes overall) [5411238 bytes received at 8004 bytes/sec], 10199701 bytes transferred using HTTP compression in 299 files, ratio 39%, 5.8 requests per connection
+(1 errors, 119 warnings, 0 messages)

@@ -1,0 +1,8 @@
+<svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" width="14px" height="21px">
+<linearGradient id="PSgrad_0" x1="86.603%" x2="0%" y1="0%" y2="50%">
+  <stop offset="0%" stop-color="rgb(135,125,224)" stop-opacity="1" />
+  <stop offset="100%" stop-color="rgb(243,163,168)" stop-opacity="1" />
+</linearGradient>
+<path fill="url(#PSgrad_0)"
+ d="M13.509,11.074 L2.645,19.643 C2.066,20.234 0.978,20.234 0.978,19.003 L0.978,1.001 C0.978,-0.229 2.066,-0.229 2.645,0.362 L13.509,8.931 C14.088,9.523 14.088,10.482 13.509,11.074 Z"/>
+</svg>
